@@ -1,0 +1,39 @@
+.body {
+    display:flex;
+}
+
+.header {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.selections {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#score {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    font-weight: bold;
+}
+
+#announcements {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.final {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
